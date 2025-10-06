@@ -4,7 +4,8 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Speakers from './components/Speakers';
 import Eventsdetails from './components/Eventsdetails';
-import Schedule from './components/schedule';
+import Schedule from './components/Schedule';
+
 
  function App() {
   return (
